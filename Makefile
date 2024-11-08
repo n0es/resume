@@ -1,5 +1,5 @@
 all:
-	xelatex ethan-resume.tex
+	pdflatex .\ethan-resume.tex
 
 resume:
-	xelatex ethan-resume.tex
+	pdflatex .\ethan-resume.tex
